@@ -1,9 +1,6 @@
-
-
-
-     * Created: 2/7/2018 11:30:34 PM
- * Author : Ankit Nikum
- */ 
+* Created: 2/7/2018 11:30:34 PM
+* Author : Ankit Nikum
+ 
 #include <avr/io.h>	
 //#define F_CPU 8000000
 //#include "USART_128.h"
